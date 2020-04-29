@@ -1,2 +1,1 @@
-# Tindog
-Tindog project - Udemy Angela course
+TinDog Starting Files
